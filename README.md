@@ -19,3 +19,16 @@ Total Sales Revenue: Overall sales generated over the selected time frame.
 Monthly Sales Growth: Percentage change in sales month-over-month.
 
 Sales by Region: Comparison of sales figures across different regions.
+
+# 🔄 Simple Data Analysis Steps in Power Query
+Action: Import your dataset into Power Query
+
+# 📊 Line Chart: Sales Over Months
+![sales over months](https://github.com/user-attachments/assets/63807b05-afec-4e02-873f-ccdba596d118)
+# 📊 Sales by Region
+![sales by region](https://github.com/user-attachments/assets/0f61674b-6450-45ae-8a33-8ab97a9a19cf)
+# 📊 Donut Chart: Sales by Category
+![sales by category](https://github.com/user-attachments/assets/9454162c-3f7e-4a8d-bb31-00a10ff81e43)
+
+
+
