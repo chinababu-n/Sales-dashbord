@@ -30,5 +30,9 @@ Action: Import your dataset into Power Query
 # 📊 Donut Chart: Sales by Category
 ![sales by category](https://github.com/user-attachments/assets/9454162c-3f7e-4a8d-bb31-00a10ff81e43)
 
+# Interactive Power BI Dashboard
 
+![Screenshot 2025-04-19 115453](https://github.com/user-attachments/assets/c2648d1c-29cf-401b-b7ec-03eeb87d7f5f)
 
+# 📌 Conclusion
+This interactive Power BI dashboard offers a comprehensive view of sales performance across different regions, categories, and time periods. 
